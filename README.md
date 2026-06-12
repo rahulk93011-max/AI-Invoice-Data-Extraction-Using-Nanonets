@@ -111,17 +111,3 @@ MBA Finance | Data Analytics | AI & Automation Projects
 ## Output Screenshot
 
 ![Purchase Invoice](https://raw.githubusercontent.com/rahulk93011-max/AI-Invoice-Data-Extraction-Using-Nanonets/main/Purchase%20Invoice.png)
-AI-Invoice-Data-Extraction-Using-Nanonets/
-│
-├── Dataset/
-│   ├── Sample_Invoice.pdf
-│   └── Extracted_Output.xlsx
-│
-├── Screenshots/
-│   ├── Invoice_Upload.png
-│   ├── Extracted_Data.png
-│   └── Workflow_Result.png
-│
-├── README.md
-├── requirements.txt
-└── Project_Report.pdf
