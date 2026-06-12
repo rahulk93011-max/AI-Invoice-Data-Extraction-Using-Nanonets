@@ -108,4 +108,6 @@ Successfully extracted:
 Rahul Kumar
 
 MBA Finance | Data Analytics | AI & Automation Projects
-https://github.com/yourusername/repository-name/blob/main/Screenshots/invoice-extraction-result.png?raw=true
+## Output Screenshot
+
+![Purchase Invoice](https://raw.githubusercontent.com/rahulk93011-max/AI-Invoice-Data-Extraction-Using-Nanonets/main/Purchase%20Invoice.png)
